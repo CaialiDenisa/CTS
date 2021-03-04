@@ -85,6 +85,7 @@ public class Utils {
 		List<Angajat> listaangajati;
 
 		try {
+			//comentariu
 			System.out.println("aasdasdasdas =>>>>>>>>>>.");
 
 			listaelevi = Utils.readPupil("elevi.txt");
