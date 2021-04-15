@@ -32,6 +32,6 @@ public class Item implements ComponentaAbstracta {
 		// TODO Auto-generated method stub
 		throw new IllegalArgumentException();
 	}
-	
+	//IllegalArgument nu trebuie anuntate in semnatura metodei, fata de Exception (difera tipul)
 	
 }
